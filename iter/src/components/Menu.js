@@ -4,7 +4,7 @@ import { ReactComponent as Inbox } from "../images/inbox.svg";
 import { ReactComponent as Explore } from "../images/explore.svg";
 import { ReactComponent as Notifications } from "../images/notifications.svg";
 import ProfileIcon from "./ProfileIcon";
-import image from "../images/profile.jpg";
+import image from "../images/post3.jpg";
 
 function Menu() {
   return (
