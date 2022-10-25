@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5dbcd216.css",
+    "main.js": "/static/js/main.012f902f.js",
+    "static/media/profile.jpg": "/static/media/profile.8806fe59c5134a5eaf96.jpg",
+    "static/media/로고1.png": "/static/media/로고1.dbb943647c1cd095b4d9.png",
+    "index.html": "/index.html",
+    "static/media/notifications.svg": "/static/media/notifications.cd2a38863b68fed22958ce2fe1992fa7.svg",
+    "static/media/explore.svg": "/static/media/explore.751ac1a8125955d091e47607d9b0ba2c.svg",
+    "static/media/comments.svg": "/static/media/comments.339a875a3f7777dc869203b37ccf0395.svg",
+    "static/media/cardButton.svg": "/static/media/cardButton.3ea56b272505f8eebe502be074b44b93.svg",
+    "static/media/bookmark.svg": "/static/media/bookmark.dce2fb848b227e58b56bc4e58b8be5a9.svg",
+    "static/media/home.svg": "/static/media/home.9567d2f973f46fe3c001e7f35c1612fa.svg",
+    "static/media/inbox.svg": "/static/media/inbox.d222bb94305f99af2b879930dbae62c8.svg",
+    "main.5dbcd216.css.map": "/static/css/main.5dbcd216.css.map",
+    "main.012f902f.js.map": "/static/js/main.012f902f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dbcd216.css",
+    "static/js/main.012f902f.js"
+  ]
+}
