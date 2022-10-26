@@ -10,6 +10,8 @@ function App() {
     // <Login></Login>
     <div className="App">
       <Navigation />
+      <br></br>
+      <br></br>
       <main>
         <div className="container">
           <Cards />

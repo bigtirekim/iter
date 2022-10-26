@@ -4,7 +4,7 @@
   position: fixed;
   top: 0;
   z-index: 2;
-  background-color: #ffeac5;
+  background-color: #FDF5D2;
   width: 100%;
   border-bottom: 1px solid $border-color-grey;
 
@@ -18,7 +18,7 @@
 
     .logo {
       padding: 0 1em;
-      width: 100px;
+      width: 105px;
 
       &:hover {
         cursor: pointer;
@@ -28,7 +28,7 @@
     .search {
       border: px solid $border-color-grey;
       border-radius: 3px;
-      background-color: #ffeac5;
+      background-color: #FDF5D2;
       min-width: 225px;
       display: flex;
       align-items: center;
